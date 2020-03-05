@@ -20,5 +20,15 @@ const result = add(12, 14);*/
  * const result = add(13,)
  *console.log (result); 
  */
-const premik = {name:"smart dude", phone:57349}
-console.log(premik.gf);
+/**akta object ar kno akta property jeta declare kora nai seta read korar cesta korle und dibe
+ * const premik = {name:"smart dude", phone:57349}
+    console.log(premik.gf);
+ */
+//let fun = undefined; ,jody sorasori undefined declare kore dawa hole
+
+
+                //Null
+
+                //null ortho khali 
+            
+
